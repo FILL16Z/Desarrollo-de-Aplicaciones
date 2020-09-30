@@ -121,7 +121,7 @@ function deleteR(id){
         localStorage.removeItem("Alumnos");
          
     }
-    swal("Listo!", "Producto eliminado correctamente","succes");
+    swal("Listo!", "Producto eliminado correctamente","success");
     read();
     
 }
