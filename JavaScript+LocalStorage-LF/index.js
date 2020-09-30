@@ -183,7 +183,5 @@ function printRowQ(productos){
     cell3.innerHTML = productos.descripcion;
     cell4.innerHTML = productos.tipo;
     cell5.innerHTML = productos.precio;
- 
-
-   
+  
 }
