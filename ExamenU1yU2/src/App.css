@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+
+
+.App-header {
+  background-color: #e30713;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.Form {
+  width:40%;
+  margin-top: 50px;
+}
+.List {
+
+  margin-top: 50px;
+}
+.Products {
+
+  margin-top: 50px;
+}
+
+.Containers{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+
